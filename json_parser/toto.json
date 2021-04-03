@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Toto",
+        "evil": true, 
+        "popo": [1,2,3],
+        "toto": {
+            "age": 1,
+            "gentil": false
+        }
+    },
+    {
+        "id": 2,
+        "name": "Tata",
+        "evil": false, 
+        "popo": [1,2,3],
+        "toto": {
+            "age": 3,
+            "gentil": true
+        }
+    }
+]
